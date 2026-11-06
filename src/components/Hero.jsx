@@ -28,7 +28,7 @@ export default function Hero() {
 
           <div className="flex flex-col sm:flex-row justify-center md:justify-start gap-4 pt-2">
             <a
-              href="https://wa.me/9918949407/?text=Hi"
+              href="https://wa.me/+919918949407/?text=Hi"
               target="_blank"
               rel="noreferrer"
               className="inline-flex items-center justify-center gap-2 bg-emerald-600 hover:bg-emerald-700 text-white font-semibold px-8 py-4 rounded-xl shadow-lg shadow-emerald-600/10 text-center transition-all"

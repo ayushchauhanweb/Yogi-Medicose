@@ -85,7 +85,7 @@ export default function Highlights() {
             </div>
           </div>
           <a
-            href={`https://wa.me/9918949407/?text=Hi`}
+            href={`https://wa.me/+919918949407/?text=Hi`}
             target="_blank"
             rel="noreferrer"
             className="w-full sm:w-auto bg-slate-900 hover:bg-emerald-600 text-white font-semibold text-xs px-6 py-3.5 rounded-xl text-center transition-all whitespace-nowrap shadow-sm"
