@@ -101,7 +101,7 @@ export default function NavBar() {
             About Us
           </a>
           <a
-            href="tel:+911234567890"
+            href="tel:+919918949407"
             className="flex items-center justify-center gap-2 bg-emerald-600 text-white py-3 rounded-xl font-semibold mt-4 shadow-sm"
           >
             <Phone className="h-4 w-4" /> Call Pharmacy
